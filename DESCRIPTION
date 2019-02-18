@@ -1,0 +1,10 @@
+Package: wgmspatstat
+Title: Package for use in STAT 531 Spatial Data Analysis, Montana State University.
+Version: 0.0.0.9000
+Authors@R: person("Wyatt", "Madden", email = "wyattgabrielmadden@gmail.com", role = "cre")
+Description: Suite of convenience functions for STAT 531.
+Depends: R (>= 3.5.2)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1.9000
